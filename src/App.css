@@ -1,0 +1,16 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input{
+  padding: .5rem;
+}
+
+label{
+  display: flex;
+  gap: 10%;
+  width: 100%;
+  justify-content: center;
+}
